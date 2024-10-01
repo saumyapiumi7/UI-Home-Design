@@ -1,0 +1,98 @@
+body{
+    background-color: antiquewhite;
+}
+
+header{
+    background-color: darkcyan;
+    width: 1200px;
+    height: 540px;
+   
+   
+}
+
+#brand-name{
+    color: white;
+    position: absolute;
+    left: 150px;
+    top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.tab-name{
+    color: white;
+    font-size: 20px;
+    top: 20px;
+    position: relative;
+    left: 430px;
+    word-spacing: 8px;
+
+}
+
+#caption{
+    color: aliceblue;
+    display: flex;
+    font-size: 30px;
+    font-weight: bold;
+    position:relative;
+    top: 100px;
+    left: 150px;
+}
+
+#description{
+    color: white;
+    position: relative;
+    top: 110px;
+    left: 150px;
+    line-height: 25px;
+    width: 500px;   
+    text-align: justify; 
+    
+
+}
+
+#card {
+    width: 1200px;                
+    height: 50px;                 
+    display: flex;                
+    justify-content: space-evenly; 
+    align-items: center;          
+}
+
+.card-name {
+    color: black;                 
+    font-size: 25px;             
+    font-weight: bold;   
+    position: relative;
+    width: 350px;  
+    text-align: center;
+          
+}
+
+
+#para{
+    width: 1200px;                
+    height: 10px;                 
+    display: flex;                
+    justify-content: space-evenly; 
+    align-items: center;  
+
+}
+
+p{
+    color: black;
+    font-size: 20px;
+    position: relative;
+    top: 100px;
+    width: 350px;
+    text-align: center;
+}
+
+img{
+    position: fixed;
+    top: 140px;
+    left: 750px;
+    width: 300px;
+    height: 350px;
+}
